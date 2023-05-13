@@ -1,0 +1,19 @@
+**
+*INCLUDE, Input=IP1.inp
+** 
+**MATERIALS
+**
+*MATERIAL, NAME=Default MATERIAL
+*DENSITY
+                  10E-9,
+*ELASTIC, TYPE=ISOTROPIC
+                   1000.,                      0.1
+**
+**
+*AMPLITUDE, NAME=A2, DEFINITION=SMOOTH STEP
+                      0.,                       0.,                       1.,                       1.
+*STEP, NAME=step1, NLGEOM=YES
+*STATIC
+*El Print, ELSET=Cube
+COORD,
+*END STEP
