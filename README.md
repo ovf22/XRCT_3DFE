@@ -76,5 +76,5 @@ Lead and corresponding auther: Ole Villiam Ferguson (olen@dtu.dk) \
 Co-auther: Lars Pilgaard Mikkelsen
 
 ## References
-[1] O. V. Ferguson, L. P. Mikkelsen, "Three-Dimensional Finite Element Modeling of Anisotropic Materials using X-ray Computed Micro-Tomography Data", *Software Impacts*, Unpublished results \
+[1] O. V. Ferguson, L. P. Mikkelsen, "Three-Dimensional Finite Element Modeling of Anisotropic Materials using X-ray Computed Micro-Tomography Data", *Software Impacts*, https://doi.org/10.1016/j.simpa.2023.100523 \
 [2] Mikkelsen, Lars P. (2022). Pultruded carbon fiber profiles - 3D x-ray tomography data-sets for two different pultruded profiles [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5978049 \
